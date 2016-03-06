@@ -22,6 +22,7 @@
 		EB01095E1C8CC4B600820385 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB0109611C8CC4B600820385 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB0109631C8CC4B600820385 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB0109691C8CC71700820385 /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = JuegoDeMemoria.playground; path = ../../JuegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				EB01095B1C8CC4B600820385 /* Main.storyboard */,
 				EB01095E1C8CC4B600820385 /* Assets.xcassets */,
 				EB0109601C8CC4B600820385 /* LaunchScreen.storyboard */,
+				EB0109691C8CC71700820385 /* JuegoDeMemoria.playground */,
 				EB0109631C8CC4B600820385 /* Info.plist */,
 			);
 			path = JuegoMemoria;
@@ -286,6 +288,7 @@
 				EB0109681C8CC4B600820385 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
